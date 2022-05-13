@@ -11,7 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-    <a href="http://digestivehealing.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
+        <Header title="Welcome to my app!" />
+        <p className="description">
+          Get started by editing <code>pages/index.js</code>
+        </p>
+    <p>
+     <a href="http://digestivehealing.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="http://educateboys.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="http://bestdodgedeals.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="http://eluminant.biz/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
@@ -4125,10 +4130,7 @@ export default function Home() {
 <a href="https://reshaping.ru/redirect.php?url=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="https://www.web-sputnik.ru/bitrix/redirect.php?event1=news_out&event2=http2FE2EEF2FF+Colorglo&goto=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="https://www.inndays.ru/redirect?url=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+    </p>
       </main>
 
       <Footer />
