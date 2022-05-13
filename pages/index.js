@@ -8,9 +8,12 @@ export default function Home() {
       <Head>
         <title>Peluang Usaha Sampingan</title>
         <link rel="icon" href="/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
       </Head>
 
       <main>
+    <div class="container">
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
@@ -4130,6 +4133,7 @@ export default function Home() {
 <a href="https://www.web-sputnik.ru/bitrix/redirect.php?event1=news_out&event2=http2FE2EEF2FF+Colorglo&goto=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
 <a href="https://www.inndays.ru/redirect?url=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a>
     </p>
+    </div>
       </main>
 
       <Footer />
