@@ -15,7 +15,7 @@ export default function Home() {
     
         <Header title="Menemukan Peluang Usaha Sampingan" />
         <p className="description">
-          Yuk simak ide mencari peluang usaha</code>
+         <code>Yuk simak ide mencari peluang usaha</code>
           
         </p>
     <p>
