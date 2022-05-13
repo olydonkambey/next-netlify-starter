@@ -15,7 +15,8 @@ export default function Home() {
     
         <Header title="Menemukan Peluang Usaha Sampingan" />
         <p className="description">
-          Bagaimana cara terbaik menuemukan ide peluang usaha sampingan terbaik, di <a href="http://peluangusahabaru.top/" target="_blank">http://peluangusahabaru.top/</a> mengulas secara lengkap. Simak Penjelasannya</code>
+          Bagaimana cara terbaik menuemukan ide peluang usaha sampingan terbaik?</code>
+          <br /> di <a href="http://peluangusahabaru.top/" target="_blank">http://peluangusahabaru.top/</a> mengulas secara lengkap. Simak Penjelasannya!
         </p>
    <p>
     Musibah Covid-19 belum juga seutuhnya hancur, bayangan herd immunity masihlah jauh dari kata sukses, karena makin bertambah perubahan virus covid-19 yang susah ditebak, hingga peluang lockdown masih bisa terjadi di masa datang.<br /><br />
