@@ -8,16 +8,46 @@ export default function Home() {
       <Head>
         <title>Peluang Usaha Sampingan</title>
         <link rel="icon" href="/favicon.ico" />
-
+        <meta name="google-site-verification" content="Z-uJ3v-uFuAs0YnCVBb_oG4YSk4VvUzq5xLdv5NY2oo" />
       </Head>
 
       <main>
     
-        <Header title="Welcome to my app!" />
+        <Header title="Menemukan Peluang Usaha Sampingan" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bagaimana cara terbaik menuemukan ide peluang usaha sampingan terbaik, di <a href="http://peluangusahabaru.top/" target="_blank">http://peluangusahabaru.top/</a> mengulas secara lengkap. Simak Penjelasannya</code>
         </p>
-   
+   <p>
+    Musibah Covid-19 belum juga seutuhnya hancur, bayangan herd immunity masihlah jauh dari kata sukses, karena makin bertambah perubahan virus covid-19 yang susah ditebak, hingga peluang lockdown masih bisa terjadi di masa datang.<br /><br />
+
+Walau demikian, semangat untuk cari rezeki janganlah sampai kendor, jika di sejauh Tahun 2020 dan 2021 ini lebih banyak yang alami persoalan dengan karier, sebaiknya untuk yang mempunyai tabungan mulai memprosesnya jadi modal usaha.<br /><br />
+
+Dan untuk yang mendapatkan karier bagus dan masih tetap bekerja, sebaiknya mulai pikirkan pendapatan tambahan dengan bisnis sambilan, apa saja kesempatannya ?<br /><br />
+
+<h3>Memahami Keperluan Warga</h3><br /><br />
+
+Beberapa customer akan ikhlas keluarkan uang untuk sebuah jalan keluar atas persoalan yang mereka temui, karena itu, dengan menyaksikan permasalahan yang terjadi dan memberi sebuah jalan keluar dari keperluan warga ialah peluang terbaik untuk bisnis sambilan.<br /><br />
+
+<h3>Cari Vendor</h3><br /><br />
+
+Jika anda akan jalankan usaha berbentuk pangan, sebaiknya cari vendor bahan makanan pada harga murah dan meriah dan terbaik, hingga, anda dapat memotong ongkos produksi dengan semudah-ringannya dan jual pada harga lumrah pasaran.<br /><br />
+
+<h3>Kunjungi Moment</h3><br /><br />
+
+Berkunjung sebuah moment untuk cari gagasan, menambahkan rekanan, menambahkan peluang dan pasarkan satu produk, ialah langkah yang paling mudah, contoh saja berkunjung booth pameran, dan gabungkan dengan gagasan anda awalnya.<br /><br />
+
+<h3>Kenali Kekuatan Diri</h3><br /><br />
+
+Sesudah pahami keperluan warga, sebaiknya cari tahu dan menghitung kekuatan diri, adakah talenta yang dapat dipasarkan? atau dipadukan ? bila anda terlatih olahraga, pasti anda kurang lebih pahami langkah olahraga dan atur konsumsi nutrisi.<br /><br />
+
+Hal itu menjadi peluang bisnis, yakni sebagai coach atau pelatih olahraga lewat cara online, baik dari membuat content atau tergabung ke basis online coach. Berlainan bila anda mempunyai ketrampilan seperti Digital Pemasaran misalkan, anda dapat memakai ketrampilan ini untuk jual barang atau jasa anda lewat cara online.<br /><br />
+
+Menyaksikan dan cari peluang usaha bukan kasus yang gampang, tetapi tak perlu menganggap susah, sepanjang ada tekad, disana ada jalan, sepanjang punya niat dan semangat cari jalannya rezeki, tentu keringanan akan ada, tidak boleh lupakan jasa asuransi bisnis untuk pelindungan usaha anda.
+
+
+
+
+    </p>
     <p>
  <a href="http://digestivehealing.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br />
 <a href="http://educateboys.com/__media__/js/netsoltrademark.php?d=https://www.peluangusahabaru.top/">https://peluangusahabaru.top/</a><br />
